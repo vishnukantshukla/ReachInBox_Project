@@ -24,20 +24,18 @@ With just a single prompt, ReachInbox sets the wheels in motion by prospecting a
    ```bash
    git clone https://github.com/vishnukantshukla/ReachInBox_Project.git
    ```
-2. **Navigate to the Project Directory:**
-   ```bash
-   cd ReachInbox.ai
-   ```
-3. **Install Dependencies:**
+
+2. **Install Dependencies:**
    ```bash
    npm install
    ```
-4. **Run the Application:**
+3. **Run the Application:**
    ```bash
    npm run dev
    ```
-5. **Access the Application:**
+4. **Access the Application:**
    Open your browser and navigate to `http://localhost:5173/`.
+   
 
 This will start the development server and allow you to interact with the application locally.
 
