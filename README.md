@@ -22,7 +22,7 @@ With just a single prompt, ReachInbox sets the wheels in motion by prospecting a
 ### **Steps to Run Locally:**
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/manni2000/ReachInbox.ai.git
+   git clone https://github.com/vishnukantshukla/ReachInBox_Project.git
    ```
 2. **Navigate to the Project Directory:**
    ```bash
